@@ -19,7 +19,7 @@ function App() {
         onClick={() => setCount(0)}
         style={{ marginLeft: '10px' }}
       >
-        Reset
+        Reset me
       </button>
     </div>
   );
